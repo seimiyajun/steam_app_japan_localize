@@ -1,0 +1,1 @@
+# steam_app_japan_localize
