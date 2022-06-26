@@ -48,7 +48,7 @@ chmod u+x run_bepinex.sh
 Steamより当該アプリのプロパティ > 起動オプション  
 "/Users/seimiyajun/Library/Application Support/Steam/steamapps/common/$app_name/run_bepinex.sh" %command%
 - 一度実行して、セキュリティ的な問題がないか確認する  
-（Macのセキュリティで、インターネットしたアプリは起動しないため）
+（Macのセキュリティで、インターネットからダウンロードしたアプリはそのままでは起動しないため）
 
 ## Xunity.AutoTranslatorのインストール
 インストール手順： https://github.com/bbepis/XUnity.AutoTranslator#bepinex-plugin  
